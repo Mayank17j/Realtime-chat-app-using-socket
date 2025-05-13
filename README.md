@@ -107,7 +107,3 @@ JWT_SECRET=your_jwt_secret
 ## 🧑‍💻 Author
 
 * [Mayank Jaiswal](https://github.com/mayank17j)
-
----
-
-Let me know if you’d like a version with screenshots, frontend setup info, or deployment instructions.
